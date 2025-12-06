@@ -37,4 +37,3 @@ List<string> allowedExtensions = new List<string> { ".log", ".txt" };
 4. Outputs messages to the console during processing.  
 5. Waits for a keypress at the end to keep the console window open when double-clicked.
 
----
