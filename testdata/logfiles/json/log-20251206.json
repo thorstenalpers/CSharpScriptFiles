@@ -1,0 +1,22 @@
+[
+  {
+    "Filename": "log-20251206.txt",
+    "Timestamp": "2025-12-06T20:29:06.2532301Z",
+    "Message": "2025-12-06 10:03:24.035 \u002B01:00 [INF] Now listening on: http://localhost:7074"
+  },
+  {
+    "Filename": "log-20251206.txt",
+    "Timestamp": "2025-12-06T20:29:06.2534059Z",
+    "Message": "2025-12-06 10:03:24.230 \u002B01:00 [INF] Application started. Press Ctrl\u002BC to shut down."
+  },
+  {
+    "Filename": "log-20251206.txt",
+    "Timestamp": "2025-12-06T20:29:06.2534061Z",
+    "Message": "2025-12-06 10:03:24.234 \u002B01:00 [INF] Hosting environment: development"
+  },
+  {
+    "Filename": "log-20251206.txt",
+    "Timestamp": "2025-12-06T20:29:06.2534062Z",
+    "Message": "2025-12-06 10:03:24.237 \u002B01:00 [INF] Content root path: C:\\Sources\\MyApp\\MyApp.API"
+  }
+]

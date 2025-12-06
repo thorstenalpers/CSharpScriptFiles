@@ -1,0 +1,4 @@
+2025-12-06 10:03:24.035 +01:00 [INF] Now listening on: http://localhost:7074
+2025-12-06 10:03:24.230 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-12-06 10:03:24.234 +01:00 [INF] Hosting environment: development
+2025-12-06 10:03:24.237 +01:00 [INF] Content root path: C:\Sources\MyApp\MyApp.API
