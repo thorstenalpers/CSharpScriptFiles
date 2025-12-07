@@ -15,7 +15,7 @@ using System.Collections.Generic;
 // -------------------------------------------------------
 // Configuration
 // -------------------------------------------------------
-string folder = @".\testdata\logfiles\json";  
+string folder = @".\Testdata\logfiles\json";  
 string orgId = "default";
 string streamName = "default";
 string baseUrl = "https://openobserve.myserver";

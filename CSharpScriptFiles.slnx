@@ -1,3 +1,14 @@
 <Solution>
-  <Project Path="CSharpScriptFiles.csproj" />
+  <Folder Name="/Documentation/">
+    <File Path="README.md" />
+    <File Path="README_Log2Json.md" />
+    <File Path="README_LogUpload.md" />
+  </Folder>
+  <Folder Name="/Samples/">
+    <Project Path="Samples/SampleLogger.csproj"/>
+  </Folder>
+  <Folder Name="/Scripts/">
+    <File Path="Log2Json.csx" />
+    <File Path="LogUpload.csx" />
+  </Folder>
 </Solution>

@@ -12,8 +12,8 @@ using System.Linq;
 // -----------------------------------------------
 // Configuration
 // -----------------------------------------------
-const string inputFolder = @".\testdata\logfiles\";
-const string outputFolder = @".\testdata\logfiles\json\";
+const string inputFolder = @".\Testdata\logfiles\";
+const string outputFolder = @".\Testdata\logfiles\json\";
 List<string> allowedExtensions = new List<string> { ".log", ".txt" };
 
 Console.WriteLine("Starting Log2Json.csx");
